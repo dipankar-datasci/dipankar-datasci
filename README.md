@@ -47,8 +47,6 @@ Developed during my research internship at **Ramakrishna Mission Vidyamandira**,
 
 ### 📊 GitHub Activity & Stats
 
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dipankar-datasci&show_icons=true&theme=tokyonight&count_private=true" alt="Dipankar's GitHub Stats" />
 </p>
