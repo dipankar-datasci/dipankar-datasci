@@ -48,15 +48,11 @@ A high-performance AI guardrail protecting LLM applications from external vulner
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipankar-datasci&show_icons=true&theme=tokyonight&count_private=true" alt="Dipankar's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankar-datasci&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar-datasci&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipankar-datasci&theme=tokyonight" alt="Dipankar's Activity Graph" />
 </p>
 
 ---
