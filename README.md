@@ -29,11 +29,11 @@ I am a passionate **Data Scientist** with a strong mathematical foundation and s
 ### 🚀 Highlighted Project
 
 #### **🛡️ Prompt Shield — Enterprise-Grade AI Security Gateway**
-Developed during my research internship at **Ramakrishna Mission Vidyamandira**, Prompt Shield is a high-performance AI guardrail that protects LLM systems from external vulnerabilities and compliance risks.
-* **Multi-Stage Security**: A 7-stage sequential pipeline executing **15 parallel security checks** (Prompt Injection, PII leakage, Toxicity, Hallucination, Topic Drift).
-* **Hybrid Inference**: Tiered confidence-based decision engine using local PyTorch models (*DeBERTa-v3*, *BGE-small*, *Detoxify*, *GLiNER*) for rapid, sub-500ms Tier-1 decisions, escalates to remote LLM judges (Gemma/Groq) for ambiguous cases.
-* **De-identification**: Bi-directional anonymization masking names, emails, and identifiers (leveraging Microsoft Presidio, GLiNER, and India-specific checksum verification like the Verhoeff algorithm for Aadhaar/PAN) to prevent data leakages.
-* **Compliance & Auditing**: Integrated modules for HIPAA PHI scanning, EU AI Act risk classification, and OWASP LLM Top 10 red-teaming diagnostics.
+A high-performance AI guardrail protecting LLM applications from external vulnerabilities and compliance risks.
+* **Multi-Stage Pipeline**: 7-stage sequential flow executing **15 parallel security checks** (Prompt Injection, PII, Toxicity, Hallucination, Topic Drift).
+* **Hybrid Inference**: Tiered decision engine using local classifiers for rapid, sub-500ms verdicts, with automated escalation to remote LLMs for ambiguous confidence intervals.
+* **Bi-directional PII Masking**: Anonymizes sensitive identifiers (names, emails, and national IDs with mathematical checksum verification) before forwarding, restoring them post-generation.
+* **Red Teaming & Compliance**: Diagnostics simulating OWASP LLM Top 10 payloads alongside compliance scanning (HIPAA PHI, EU AI Act risk classification).
 
 ---
 
