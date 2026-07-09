@@ -11,9 +11,6 @@
 ### 💫 About Me
 I am a passionate **Data Scientist** with a strong mathematical foundation and specialization in **Data Science & Analytics**. My expertise spans building end-to-end machine learning pipelines, computer vision systems, natural language processing models, and cutting-edge GenAI applications. 
 
-* 🎓 **Currently pursuing**: M.Sc. in Data Science at **St. Xavier's College (Autonomous), Kolkata** (CGPA: 7.02).
-* 🎓 **Background**: B.Sc. in Mathematics from **Ramakrishna Mission Vivekananda Centenary College, Kolkata** (CGPA: 7.89).
-* 🔬 **Recent Experience**: Former Research Intern at **Ramakrishna Mission Vidyamandira**, where I built enterprise-grade AI security frameworks.
 * 💡 **Interests**: Statistical modeling, Deep Learning architectures, LLM Guardrails, and RAG pipelines.
 
 ---
@@ -50,18 +47,18 @@ Developed during my research internship at **Ramakrishna Mission Vidyamandira**,
 
 ### 📊 GitHub Activity & Stats
 
-*Note: Replace `YOUR_GITHUB_USERNAME` in the URLs below with your actual GitHub username to activate these stats!*
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Dipankar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dipankar-datasci&show_icons=true&theme=tokyonight&count_private=true" alt="Dipankar's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankar-datasci&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar-datasci&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
