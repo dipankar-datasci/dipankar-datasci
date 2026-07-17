@@ -48,7 +48,7 @@ A high-performance AI guardrail protecting LLM applications from external vulner
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar-datasci&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=dipankar-datasci&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -61,4 +61,4 @@ A high-performance AI guardrail protecting LLM applications from external vulner
 * 📧 **Email**: [dipankarsahu24@gmail.com](mailto:dipankarsahu24@gmail.com)
 * 💼 **LinkedIn**: [linkedin.com/in/dipankar-sahu](https://linkedin.com/in/dipankar-sahu)
 
-⚡ *“Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers.” — Shakuntala Devi*
+⚡ *"Without mathematics, there's nothing you can do. Everything around you is mathematics. Everything around you is numbers." — Shakuntala Devi*
