@@ -50,8 +50,6 @@ Developed during my research internship at **Ramakrishna Mission Vidyamandira**,
 
 ![Dipankar's GitHub Stats](./profile/stats.svg)
 
-![Top Languages](./profile/top-langs.svg)
-
 ![GitHub Streak](./profile/streak.svg)
 
 ---
