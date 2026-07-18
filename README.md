@@ -48,11 +48,11 @@ Developed during my research internship at **Ramakrishna Mission Vidyamandira**,
 
 ### 📊 GitHub Activity & Stats
 
-[![Dipankar's GitHub Stats](https://github-stats-extended.vercel.app/api?username=dipankar-datasci&show_icons=true&theme=tokyonight&count_private=true)](https://github-stats-extended.vercel.app/api?username=dipankar-datasci&show_icons=true&theme=tokyonight&count_private=true)
+[![Dipankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipankar-datasci&show_icons=true&theme=tokyonight&count_private=true)](https://github-readme-stats.vercel.app/api?username=dipankar-datasci&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=dipankar-datasci&layout=compact&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs/?username=dipankar-datasci&layout=compact&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipankar-datasci&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=dipankar-datasci&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dipankar-datasci&theme=tokyonight)](https://streak-stats.demolab.com/?user=dipankar-datasci&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipankar-datasci&theme=tokyonight)](https://github-readme-streak-stats.herokuapp.com/?user=dipankar-datasci&theme=tokyonight)
 
 ---
 
