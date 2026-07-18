@@ -46,16 +46,6 @@ Developed during my research internship at **Ramakrishna Mission Vidyamandira**,
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-![Dipankar's GitHub Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
-
-![GitHub Streak](./profile/streak.svg)
-
----
-
 ### 🤝 Let's Connect!
 
 - 📧 **Email**: <dipankarsahu24@gmail.com>
