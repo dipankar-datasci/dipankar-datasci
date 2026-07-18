@@ -16,18 +16,18 @@ I am a passionate **Data Scientist** with a strong mathematical foundation and s
 
 ### 🛠️ Tech Stack & Tooling
 
-| Category             | Technologies |
-| --------------------- | ------------ |
-| **Languages**        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **ML/DL Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-FFD21E?style=flat-square) |
-| **GenAI & NLP**      | ![LLM Fine-tuning](https://img.shields.io/badge/LLM-Fine--tuning-blueviolet?style=flat-square) ![RAG Pipelines](https://img.shields.io/badge/RAG-Pipelines-orange?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-brightgreen?style=flat-square) |
-| **Developer Tools**  | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| Category             | Technologies                                                                                                                                                                                             |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**        | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **ML/DL Frameworks** | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-FFD21E?style=flat-square)](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-FFD21E?style=flat-square) |
+| **GenAI & NLP**      | [![LLM Fine-tuning](https://img.shields.io/badge/LLM-Fine--tuning-blueviolet?style=flat-square)](https://img.shields.io/badge/LLM-Fine--tuning-blueviolet?style=flat-square) [![RAG Pipelines](https://img.shields.io/badge/RAG-Pipelines-orange?style=flat-square)](https://img.shields.io/badge/RAG-Pipelines-orange?style=flat-square) [![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-brightgreen?style=flat-square)](https://img.shields.io/badge/Prompt-Engineering-brightgreen?style=flat-square) |
+| **Developer Tools**  | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 
 ---
 
 ### 🚀 Highlighted Project
 
-#### 🛡️ Prompt Shield — Enterprise-Grade AI Security Gateway
+#### **🛡️ Prompt Shield — Enterprise-Grade AI Security Gateway**
 
 Developed during my research internship at **Ramakrishna Mission Vidyamandira**, Prompt Shield is a high-performance AI guardrail that protects LLM systems from external vulnerabilities and compliance risks.
 
@@ -48,17 +48,17 @@ Developed during my research internship at **Ramakrishna Mission Vidyamandira**,
 
 ### 📊 GitHub Activity & Stats
 
-[![Dipankar's GitHub Stats](https://github-stats-extended.vercel.app/api?username=dipankar-datasci&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/dipankar-datasci)
+[![Dipankar's GitHub Stats](https://github-stats-extended.vercel.app/api?username=dipankar-datasci&show_icons=true&theme=tokyonight&count_private=true)](https://github-stats-extended.vercel.app/api?username=dipankar-datasci&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=dipankar-datasci&layout=compact&theme=tokyonight)](https://github.com/dipankar-datasci)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=dipankar-datasci&layout=compact&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs/?username=dipankar-datasci&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dipankar-datasci&theme=tokyonight)](https://github.com/dipankar-datasci)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dipankar-datasci&theme=tokyonight)](https://streak-stats.demolab.com/?user=dipankar-datasci&theme=tokyonight)
 
 ---
 
 ### 🤝 Let's Connect!
 
-- 📧 **Email**: dipankarsahu24@gmail.com
+- 📧 **Email**: <dipankarsahu24@gmail.com>
 - 💼 **LinkedIn**: [linkedin.com/in/dipankar-sahu](https://linkedin.com/in/dipankar-sahu)
 
 ⚡ *"Without mathematics, there's nothing you can do. Everything around you is mathematics. Everything around you is numbers." — Shakuntala Devi*
