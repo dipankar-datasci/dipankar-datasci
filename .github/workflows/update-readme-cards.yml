@@ -34,11 +34,13 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak stats card
-        uses: DenverCoder1/github-readme-streak-stats-action@v1
+        uses: be-next/github-streak-stats-action@v1
         with:
-          user_id: dipankar-datasci
+          username: dipankar-datasci
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: profile/streak.svg
           theme: tokyonight
-          output_path: profile/streak.svg
+          hide-border: true
 
       - name: Commit and push cards if changed
         run: |
