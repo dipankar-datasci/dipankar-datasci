@@ -27,9 +27,9 @@ I am a passionate **Data Scientist** with a strong mathematical foundation and s
 
 ### 🚀 Highlighted Project
 
-#### **🛡️ Prompt Shield — Enterprise-Grade AI Security Gateway**
+#### **🛡️ LLM guardrails — Enterprise-Grade AI Security Gateway**
 
-Developed during my research internship at **Ramakrishna Mission Vidyamandira**, Prompt Shield is a high-performance AI guardrail that protects LLM systems from external vulnerabilities and compliance risks.
+Developed during my research internship at **Faceoff Technologies**, Prompt Shield is a high-performance AI guardrail that protects LLM systems from external vulnerabilities and compliance risks.
 
 - **Multi-Stage Security**: A 7-stage sequential pipeline executing **15 parallel security checks** (Prompt Injection, PII leakage, Toxicity, Hallucination, Topic Drift).
 - **Hybrid Inference**: Tiered confidence-based decision engine using local PyTorch models (*DeBERTa-v3*, *BGE-small*, *Detoxify*, *GLiNER*) for rapid, sub-500ms Tier-1 decisions, escalates to remote LLM judges (Gemma/Groq) for ambiguous cases.
